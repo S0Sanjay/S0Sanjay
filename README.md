@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @S_Sanjay
-- 👀 I’m interested in coding, designing.. 
-- 🌱 I’m currently learning c, c++, oops.. 
+👋 Hey there! I'm Sanjay S, a coding enthusiast journeying through the realms of C and Python.
+I've got the skills to craft captivating websites. Currently,
+I'm diving deep into the world of Java, mastering data structures and uncovering the wonders of Excel. 
+Join me as we embark on this coding adventure together! 💻🚀
 - 📫 Reach me on Instagram 
 https://instagram.com/s._.sanja_y?igshid=YmMyMTA2M2Y=
 
